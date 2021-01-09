@@ -1,6 +1,8 @@
 Documentation and procedures.
 =============================
 
+Welcome to the offical employee work and prodecures handbook
+
 Example code below.::
 
 	print 'hello'
